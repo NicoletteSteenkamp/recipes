@@ -1,0 +1,24 @@
+/* RecipesList.css */
+body{background-color:#d6c0af ;}
+
+.recipes-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .recipes-grid .recipes-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  
+  }
+  
+  .recipes-grid .recipe-item {
+    border: 1px solid #a64169;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: black; 
+  }
+  
