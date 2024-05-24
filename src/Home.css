@@ -1,19 +1,18 @@
 
 body {
     text-align: center;
-    color: rgb(86, 16, 46);
+    color: rgb(171, 31, 92);
 }
 
 
 body.home-page {
-    background-image: url("https://img.freepik.com/free-photo/top-close-up-view-spices-spices-bottle-oil-tomatoes-lemon-sauce-cream-notebook_140725-71779.jpg?size=626&ext=jpg&ga=GA1.1.230571864.1716542444&semt=ais_user_b");
+    background-image: url("https://img.freepik.com/free-photo/top-view-open-notepad-with-green-branch_140725-133240.jpg?size=626&ext=jpg&ga=GA1.1.230571864.1716542444&semt=ais_user_b");
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 225px;
-    padding-left: 620px;
+    
 }
 
 footer {
-    padding-top: 300px;
+    padding-top: 550px;
     color: black;
 }

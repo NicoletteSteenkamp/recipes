@@ -16,7 +16,7 @@ const Home = () => {
   return (
     <div>
       <h1>Welcome to My Recipes App</h1>
-      <p>Click below to see my recipes:</p>
+      <p>Please click the link below to see my recipes:</p>
       
       <Link to="/recipes">View Recipes</Link>
 

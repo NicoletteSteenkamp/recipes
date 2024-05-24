@@ -1,10 +1,9 @@
 /* RecipeDetail.css */
-
 .recipe-detail-container {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #e4d6e1;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
@@ -15,11 +14,6 @@
   
   .recipe-detail-container p {
     color: #666;
-  }
-  
-  .recipe-detail-container ul,
-  .recipe-detail-container ol {
-    margin-left: 20px;
   }
   
   .recipe-detail-container img {
